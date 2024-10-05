@@ -1,0 +1,9 @@
+ numpy
+ pandas
+ scikit-learn
+ torch
+ torchinfo
+ matplotlib
+ seaborn
+ tensorflow
+ keras
